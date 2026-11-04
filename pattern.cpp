@@ -17,10 +17,10 @@ int main(){
            cout<<"*";
           }
           k=k+2;
-           for(int j=0;j<(n-i-1);j++)
-           {
-             cout<<" ";
-           }
+          //  for(int j=0;j<(n-i-1);j++)
+          //  {
+          //    cout<<" ";
+          //  }
         }
                cout<<endl;
     }
